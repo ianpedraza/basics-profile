@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile_cover_image">profile cover image</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="naruto_uzumaki">Naruto Uzumaki</string>
+    <string name="username">\@uzumakinaruto</string>
+    <string name="bio">Konoha\'s Hokage. Father. Jinchūriki. #dattebayo</string>
+    <string name="follow">Follow</string>
+    <string name="profile_item">profile item</string>
+    <string name="create_post_button">create post button</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="item_4">Item 4</string>
+    <string name="item_5">Item 5</string>
+</resources>
